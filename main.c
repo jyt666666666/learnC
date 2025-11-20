@@ -21,7 +21,7 @@ int main() {         // 主函数
 
     // 输出结果
     printf("Sum: %d\n", sum);
-
+    printf("hello world\n");
     return 0;        // 返回 0 表示程序成功执行
 }
 
